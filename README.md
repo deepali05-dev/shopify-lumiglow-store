@@ -14,3 +14,13 @@ https://lumiglow-skincare-store.myshopify.com
 Password: lumiglow
 
 ## Screenshots
+## Store Preview
+
+### Homepage
+![Homepage](homepage.png.png)
+
+### Products Section
+![Products](products.png.png)
+
+### Product Page
+![Product Page](productpage.png.png)
